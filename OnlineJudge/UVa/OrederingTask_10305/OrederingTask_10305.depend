@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511687919 source:g:\helloworld\smalltolarge\onlinejudge\uva\orederingtask_10305\main.cpp
+	<cstdio>
+	<cstring>
+

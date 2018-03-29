@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501127414 source:g:\helloworld\smalltolarge\kmp\main.cpp
+	<iostream>
+	<cstdio>
+

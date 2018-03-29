@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500444794 source:g:\helloworld\road\testdp_1\main.cpp
+	<cstdio>
+	<cmath>
+	<algorithm>
+

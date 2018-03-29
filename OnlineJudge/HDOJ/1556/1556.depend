@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1502787839 source:g:\helloworld\smalltolarge\onlinejudge\hdoj\1556\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<utility>
+	<algorithm>
+

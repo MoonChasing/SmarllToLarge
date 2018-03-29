@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509675737 source:g:\helloworld\smalltolarge\onlinejudge\codeforces\fairgame_864_a\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<utility>
+	<algorithm>
+

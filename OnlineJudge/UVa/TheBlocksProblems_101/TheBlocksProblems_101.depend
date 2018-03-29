@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509882012 source:g:\helloworld\smalltolarge\onlinejudge\uva\theblocksproblems_101\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<utility>
+	<algorithm>
+

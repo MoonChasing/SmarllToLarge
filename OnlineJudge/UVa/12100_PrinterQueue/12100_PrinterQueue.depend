@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1517662069 source:g:\helloworld\smalltolarge\onlinejudge\uva\12100_printerqueue\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+	<sstream>
+	<cctype>
+	<map>
+	<stack>
+	<queue>
+	<cstdlib>
+	<ctime>
+

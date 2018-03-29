@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1512740699 source:g:\helloworld\smalltolarge\recareau\main.cpp
+	<algorithm>
+	<cctype>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<iostream>
+	<map>
+	<queue>
+	<string>
+	<set>
+	<vector>
+

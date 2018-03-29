@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501762911 source:g:\helloworld\smalltolarge\dijunbuzhen\main.cpp
+	<cstdio>
+	<iostream>
+	<cstring>
+

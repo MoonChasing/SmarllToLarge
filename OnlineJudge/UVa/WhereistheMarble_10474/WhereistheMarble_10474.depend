@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509877640 source:g:\helloworld\smalltolarge\onlinejudge\uva\whereisthemarble_10474\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<utility>
+	<algorithm>
+

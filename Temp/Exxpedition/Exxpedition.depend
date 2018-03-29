@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500641500 source:g:\helloworld\road\exxpedition\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+	<queue>
+	<cstdio>
+

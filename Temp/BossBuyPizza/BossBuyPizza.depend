@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501567577 source:g:\helloworld\smalltolarge\bossbuypizza\main.cpp
+	<iostream>
+	<cstdio>
+
