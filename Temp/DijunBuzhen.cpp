@@ -2,7 +2,7 @@
 #include<iostream>
 #include<cstring>
 
-#define LOCAL
+//#define LOCAL
 //#define DEBUG
 #define MAXN 50005
 using namespace std;
@@ -74,6 +74,7 @@ int main()
     #ifdef LOCAL
         freopen("C:\\Users\\Administrator\\Desktop\\in.txt", "r", stdin);
     #endif
+
     scanf("%d", &T);
     while(T--)
     {

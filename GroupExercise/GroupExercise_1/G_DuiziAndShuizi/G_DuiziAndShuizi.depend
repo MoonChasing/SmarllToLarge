@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523082477 source:g:\helloworld\smalltolarge\groupexercise\groupexercise_1\g_duiziandshuizi\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<utility>
+	<algorithm>
+
