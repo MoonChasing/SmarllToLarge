@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1501747070 source:g:\helloworld\acm\templet\segmenttree\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

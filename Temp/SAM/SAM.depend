@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503121263 source:g:\helloworld\acm\templet\sam\main.cpp
+	<cstdio>
+	<iostream>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501846783 source:g:\helloworld\acm\templet\binatyindextree\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
