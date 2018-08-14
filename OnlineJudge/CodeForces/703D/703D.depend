@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1533226433 source:g:\helloworld\smalltolarge\onlinejudge\codeforces\703d\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<utility>
+	<algorithm>
+
